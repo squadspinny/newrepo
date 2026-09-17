@@ -1,0 +1,9 @@
+export { HomePage } from './HomePage';
+export { AllCalculatorsPage } from './AllCalculatorsPage';
+export { CalculatorPage } from './CalculatorPage';
+export { AboutPage } from './AboutPage';
+export { ContactPage } from './ContactPage';
+export { PrivacyPage } from './PrivacyPage';
+export { DisclaimerPage } from './DisclaimerPage';
+export { TermsPage } from './TermsPage';
+export { SitemapPage } from './SitemapPage';

@@ -1,0 +1,6 @@
+{
+  "name": "Score Calculator - Free Exam Score Calculators & 2027 Scoring Curves",
+  "description": "Calculate and predict your scores for AP exams (2027 structure), SAT, ACT, GRE, GMAT, LSAT, MCAT, and more with accurate scoring curves and detailed breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

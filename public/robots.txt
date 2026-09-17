@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://scorecalculator.net
+
+# Sitemaps
+Sitemap: https://scorecalculator.net/sitemap.xml
